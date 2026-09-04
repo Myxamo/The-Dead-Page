@@ -1,0 +1,30 @@
+body {
+	background-color: black;
+}
+
+.header {
+	color: white;
+	text-align: center;
+	font-size: 60px;
+	margin-bottom: 5px;
+	font-family: Arial;
+}
+
+.subheader {
+	color: white;
+	text-align: center;
+	font-family: Arial;
+}
+
+.dedication {
+	text-align: center;
+	color: white;
+	font-size: 20px;
+	font-family: Georgia;
+}
+
+.footer {
+	color: white;
+	text-align: center;
+	font-family: Arial;
+}
